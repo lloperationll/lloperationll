@@ -5,7 +5,7 @@
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHZ1aXBtM3oxbnJ1MnVteHN4OXRhNDRicjBkaG1iNHpjcHdmczU3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OebmL8vnYYXYywcImB/giphy.gif" width="30px">&nbsp;***I am a Software Engineering student from Colombia passionate about building software that solves real-world problems.***
 
-💬I am a Software Engineering student passionate about technology and software development. I enjoy learning new technologies and building practical solutions that solve real-world problems. I am constantly improving my skills in both front-end and back-end development while working on personal and academic projects.
+💬I enjoy learning new technologies and building practical solutions that solve real-world problems. I am constantly improving my skills in both front-end and back-end development while working on personal and academic projects.
 - 🌱 I’m currently learning 
   - Nest.js
   - Angular
